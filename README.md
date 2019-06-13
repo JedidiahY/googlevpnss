@@ -4,10 +4,10 @@
 ***用谷歌云搭建vpn shadowsocks 翻墙***
 
 目录：
-1. [前提条件](##前提条件) 
-2. [创建VM实例](##创建VM实例)
-3. [配置网络](##配置网络)
-4. [安装shadowsocks](##安装shadowsocks)
+1. [前提条件](#前提条件) 
+2. [创建VM实例](#创建VM实例)
+3. [配置网络](#配置网络)
+4. [安装shadowsocks](#安装shadowsocks)
 
 
 [参考文档 allenking1028](https://github.com/allenking1028/ss/issues/1)
