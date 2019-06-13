@@ -5,9 +5,9 @@
 
 目录：
 1. [前提条件](##前提条件) 
-2. [创建VM实例](##一.创建VM实例)
-3. [配置网络](##二.配置网络)
-4. [安装shadowsocks](##三.安装shadowsocks)
+2. [创建VM实例](##创建VM实例)
+3. [配置网络](##配置网络)
+4. [安装shadowsocks](##安装shadowsocks)
 
 
 [参考文档 allenking1028](https://github.com/allenking1028/ss/issues/1)
@@ -21,7 +21,7 @@
 2. 已经注册好谷歌云
 3. 自己电脑已经会安装shadowsocks
 
-## 一.创建VM实例
+## 创建VM实例
 
 ![group](./image/1.jpg)
 
@@ -39,7 +39,7 @@
  5. 防火墙规则勾选
  6. 点击创建
   
-## 二.配置网络
+## 配置网络
 
 1. 网络 -> vpc网络 -> 防火墙规则
 
@@ -55,7 +55,7 @@
  6. 协议和端口选择：全部允许
  7. 点击保存
 
-## 三.安装shadowsocks
+## 安装shadowsocks
 
 在浏览器中打开命令窗口
 
